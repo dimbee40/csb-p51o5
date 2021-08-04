@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://dimbee40.github.io/csb-p51o5/static/css/main.9c622f7f.chunk.css",
+    "main.js": "https://dimbee40.github.io/csb-p51o5/static/js/main.d00f232f.chunk.js",
+    "main.js.map": "https://dimbee40.github.io/csb-p51o5/static/js/main.d00f232f.chunk.js.map",
+    "runtime-main.js": "https://dimbee40.github.io/csb-p51o5/static/js/runtime-main.a817e3f6.js",
+    "runtime-main.js.map": "https://dimbee40.github.io/csb-p51o5/static/js/runtime-main.a817e3f6.js.map",
+    "static/js/2.8ec4ee22.chunk.js": "https://dimbee40.github.io/csb-p51o5/static/js/2.8ec4ee22.chunk.js",
+    "static/js/2.8ec4ee22.chunk.js.map": "https://dimbee40.github.io/csb-p51o5/static/js/2.8ec4ee22.chunk.js.map",
+    "static/js/3.465367c6.chunk.js": "https://dimbee40.github.io/csb-p51o5/static/js/3.465367c6.chunk.js",
+    "static/js/3.465367c6.chunk.js.map": "https://dimbee40.github.io/csb-p51o5/static/js/3.465367c6.chunk.js.map",
+    "index.html": "https://dimbee40.github.io/csb-p51o5/index.html",
+    "static/css/main.9c622f7f.chunk.css.map": "https://dimbee40.github.io/csb-p51o5/static/css/main.9c622f7f.chunk.css.map",
+    "static/js/2.8ec4ee22.chunk.js.LICENSE.txt": "https://dimbee40.github.io/csb-p51o5/static/js/2.8ec4ee22.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a817e3f6.js",
+    "static/js/2.8ec4ee22.chunk.js",
+    "static/css/main.9c622f7f.chunk.css",
+    "static/js/main.d00f232f.chunk.js"
+  ]
+}
